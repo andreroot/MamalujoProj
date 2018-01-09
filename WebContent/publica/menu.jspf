@@ -1,0 +1,23 @@
+<div class="navbar" role="navigation">
+   <div class="container">
+     <div class="navbar-header">
+       <nav>
+       	<ul class="menu">
+       		<li>Home</li>
+       		<li>Exportar Arquivo:
+       			<ul>
+	       			<li>Type:
+		       			<ul>
+		       				<li><a href="pagina_upload.jsp" style="margin-right: 5px;" class="btn" role="button">Excel para MongoDB</a></li>
+		       				<li><a href="pagina_upload.jsp" style="margin-right: 5px;" class="btn" role="button">Txt para MongoDB</a></li>
+		       			</ul>
+	       			</li>
+       			</ul>
+       			</li>
+       		<li>Ajuda</li>
+       	
+       	</ul>
+       </nav>
+     </div>
+   </div>
+</div>
